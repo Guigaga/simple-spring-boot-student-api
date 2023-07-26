@@ -51,5 +51,5 @@ Content-Type: application/json
 Delete a student by their identifier.
 
 
-Thank you for using the Students API! If you have any questions or encounter issues, feel free to contact us.
+Thank you for using the Students API! If you have any questions or encounter issues, feel free to contact me.
 
