@@ -23,8 +23,8 @@ To get a local copy up and running, follow these steps:
 
 ### 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spring-boot-student-api.git
-   cd spring-boot-student-api
+   git clone https://github.com/Guigaga/simple-spring-boot-student-api.git
+   cd simple-spring-boot-student-api
    ```
    
 ### 2. Configure the database:
