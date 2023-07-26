@@ -1,4 +1,4 @@
-# Spring Boot Student API
+# ✨ Spring Boot Student API
 
 This project is a Java-based RESTful API developed using the Spring Boot framework to manage student information. The API allows you to create, retrieve, update, and delete student data in a MySQL database.
 
